@@ -1,5 +1,7 @@
 # Daily-Gas
 
+This typescript apps keep getting block information from ropsten and store the block information including transaction into a sqlite3 database.  After each day, it will get the total number blocks and total gas from sqlite3 database and update it to a smart contract.
+
 To compile the typescipt source:
 ```
 tsc
