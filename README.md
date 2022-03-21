@@ -1,6 +1,6 @@
 # Daily-Gas
 
-To comply the typescipt source:
+To compile the typescipt source:
 ```
 tsc
 ```
@@ -33,6 +33,4 @@ It is located at daily-gas/daily-gas/DailyGas.sol
 The deploy address of the DailyGas.sol in ropsten is 0x2A7E23821E0821A89DD40012A3fcE6f5533852c5
 
 The please rename .env-sample to .env and update corresponding data to deploy smart contract.
-
-
 
